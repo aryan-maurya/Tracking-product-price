@@ -3,7 +3,8 @@
 Python app to track prices of a product and get an update if the price drops.
 
 
-![Tracker SS](https://user-images.githubusercontent.com/60297037/206873454-cb5679c0-8c3b-4f68-a65f-f40d8ded13ab.png)
+![Tracker SS](https://user-images.githubusercontent.com/60297037/206873521-b4750aa8-3c3a-43e8-8183-13e6313f37e2.png)
 
 
-![Mail SS](https://user-images.githubusercontent.com/60297037/206873455-7a0efe10-7d95-40b3-a78f-674dd2dd53aa.png)
+![Mail SS](https://user-images.githubusercontent.com/60297037/206873529-4d2f510f-cfb2-4746-af7c-10d6448641e0.png)
+
